@@ -1,1 +1,2 @@
-%javascript git test
+//javascript git test
+//Lets start programming
